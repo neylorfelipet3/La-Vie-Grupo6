@@ -1,7 +1,5 @@
 # La Vie - Saúde Mental
 Terceiro desafio em equipe do Gama Academy, com o objetivo de colocar em prática os conhecimentos de Back-end, criando uma API do zero utilizando Node.js, Express e Banco de dados MySQL.
-# Projeto
-- link: https://documenter.getpostman.com/view/21020916/2s93JzKzfS#3c85e41a-7db7-4fe4-af16-a3c3d9086656
 # Intruções para utilizar o projeto
 - Clone o repositorio para a sua máquina utilizando o git clone
 - No terminal, dentro do projeto, instale todos os pacotes e depêndencias usando o npm install
