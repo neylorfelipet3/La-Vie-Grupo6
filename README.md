@@ -3,7 +3,7 @@ Terceiro desafio em equipe do Gama Academy, com o objetivo de colocar em prátic
 # Intruções para utilizar o projeto
 - Clone o repositorio para a sua máquina utilizando o git clone
 - No terminal, dentro do projeto, instale todos os pacotes e depêndencias usando o npm install
-- Crie o banco de dados e as tabelas utilizando os comendos da pasta /sql
+- Crie o banco de dados e as tabelas utilizando os comandos da pasta /sql
 # Objetivos de estudo
 - Boas práticas em relação ao uso de JS e organização do projeto usando os princípios do MVC.
 - Construir uma API utilizando boas práticas em Node.js e Express.
