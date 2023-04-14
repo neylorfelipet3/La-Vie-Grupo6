@@ -14,6 +14,7 @@ Terceiro desafio em equipe do Gama Academy, com o objetivo de colocar em prátic
 - Javascript
 - Node.js
 - Express
+- Sequelize
 - MySQL
 # Autores
 - <a href="https://github.com/neylorfelipet3">Neylor Felipe</a>
