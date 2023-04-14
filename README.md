@@ -16,6 +16,8 @@ Terceiro desafio em equipe do Gama Academy, com o objetivo de colocar em prátic
 - Express
 - Sequelize
 - MySQL
+# DOCUMENTAÇÃO
+Link: https://documenter.getpostman.com/view/21020916/2s93JzKzfS
 # Autores
 - <a href="https://github.com/neylorfelipet3">Neylor Felipe</a>
 - <a href="https://github.com/GleycianeG">Gleyciane Gonçalves</a>
