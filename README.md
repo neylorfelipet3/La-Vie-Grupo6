@@ -16,7 +16,7 @@ Terceiro desafio em equipe do Gama Academy, com o objetivo de colocar em prátic
 - Express
 - MySQL
 # Autores
-- Neylor Felipe
-- Gleyciane Gonçalves
+- <a href="https://github.com/neylorfelipet3">Neylor Felipe</a>
+- <a href="https://github.com/GleycianeG">Gleyciane Gonçalves</a>
 - Samuel Lara
-- Matheus Ellenberger
+- <a href="https://github.com/Matheus-Ellenberger">Matheus Ellenberger</a>
