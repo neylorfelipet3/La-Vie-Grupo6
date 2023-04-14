@@ -17,7 +17,7 @@ Terceiro desafio em equipe do Gama Academy, com o objetivo de colocar em prátic
 - Sequelize
 - MySQL
 # DOCUMENTAÇÃO
-Link: https://documenter.getpostman.com/view/21020916/2s93JzKzfS
+Link: https://documenter.getpostman.com/view/26915318/2s93Xx1jf5
 # Autores
 Grupo 6
 
