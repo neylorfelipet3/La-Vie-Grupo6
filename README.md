@@ -22,6 +22,6 @@ Link: https://documenter.getpostman.com/view/26915318/2s93Xx1jf5
 Grupo 6
 
 - <a href="https://github.com/neylorfelipet3">Neylor Felipe</a>
+- <a href="https://github.com/samupesb">Samuel Lara</a>
 - <a href="https://github.com/GleycianeG">Gleyciane Gonçalves</a>
-- Samuel Lara
 - <a href="https://github.com/Matheus-Ellenberger">Matheus Ellenberger</a>
